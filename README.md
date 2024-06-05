@@ -1,4 +1,4 @@
-Install Pyton
+Install Python
 
 Create a vitual environment
 
